@@ -1,2 +1,0 @@
-# carrots
-test_task
